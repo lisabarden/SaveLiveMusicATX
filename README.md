@@ -8,3 +8,4 @@ Objective: Support the people that constitute the heart and soul of The Live Mus
 
 If you have questions or feedback about this project, or just want to know more information, please join our slack channel at https://atxhack4change.slack.com/messages/opendata4music/
 
+Tasks for this project can be found at https://github.com/lisabarden/SaveLiveMusicATX/issues
